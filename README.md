@@ -1,2 +1,2 @@
 # Graficas computacionales
-Repositorio para materia de graficas computacionales donde se encuentran los proyectos comprimidos y las librerias necesarias para ser ejecutados.
+Repositorio para la materia de graficas computacionales. Se encuentran los proyectos comprimidos y las librerias necesarias para ser ejecutados.
